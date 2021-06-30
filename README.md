@@ -15,7 +15,6 @@ pip install -e .
 
 ## Usage
 ### 1.Train ASV 
-You can skip this step and use our pretrained model (speaker_verification/pretrained_model/ckpt.pt)
 - Prepare the data
 ```bash
 cd speaker_verification/examples/VoxCeleb/verification
@@ -26,6 +25,7 @@ set the stage in run.sh to 1 to format data
 bash run.sh
 ```
 - Train
+You can skip this step and use our pretrained model (speaker_verification/pretrained_model/ckpt.pt)
 ```bash
 set the stage in run.sh to 2
 bash run.sh
