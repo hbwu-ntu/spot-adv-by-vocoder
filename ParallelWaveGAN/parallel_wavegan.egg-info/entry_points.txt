@@ -1,0 +1,7 @@
+[console_scripts]
+parallel-wavegan-compute-statistics = parallel_wavegan.bin.compute_statistics:main
+parallel-wavegan-decode = parallel_wavegan.bin.decode:main
+parallel-wavegan-normalize = parallel_wavegan.bin.normalize:main
+parallel-wavegan-preprocess = parallel_wavegan.bin.preprocess:main
+parallel-wavegan-train = parallel_wavegan.bin.train:main
+
