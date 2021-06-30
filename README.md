@@ -24,8 +24,7 @@ bash run.sh
 set the stage in run.sh to 1 to format data
 bash run.sh
 ```
-- Train
-You can skip this step and use our pretrained model (speaker_verification/pretrained_model/ckpt.pt)
+- Train **You can skip this step and use our pretrained model (speaker_verification/pretrained_model/ckpt.pt)**
 ```bash
 set the stage in run.sh to 2
 bash run.sh
@@ -63,7 +62,7 @@ bash run.sh
 ```
 
 ### 3. Train vocoder
-You can skip this step and use our pretrained model in ParallelWaveGAN/pretrained_model/train_nodev_ljspeech_parallel_wavegan.v1.long
+**You can skip this step and use our pretrained model in ParallelWaveGAN/pretrained_model/train_nodev_ljspeech_parallel_wavegan.v1.long**
 - Prepare the data and train
 ```bash
 cd ParallelWaveGAN/egs/ljspeech/voxceleb1
