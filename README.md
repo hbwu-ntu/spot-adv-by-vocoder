@@ -2,7 +2,7 @@
 
 ## Introduction
 - This repo is used for reproducing the main result of "SPOTTING ADVERSARIAL SAMPLES FOR SPEAKER VERIFICATION BY NEURAL VOCODERS"
-- Paper: [Arxiv](https://github.com/HaibinWu666/spot-adv-by-vocoder)
+- Paper: [Arxiv](https://arxiv.org/abs/2107.00309)
 - Audio demo: [Demo](https://haibinwu666.github.io/adv-audio-demo/index.html)
 
 ## Installation
