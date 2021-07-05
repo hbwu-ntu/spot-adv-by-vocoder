@@ -112,3 +112,5 @@ If you think this work helps your research or use the code, please consider citi
 
 ## Reference
 - The implementation of ParallelWaveGAN is from https://github.com/kan-bayashi/ParallelWaveGAN
+- https://github.com/thuhcsi/torch_speaker
+- https://github.com/clovaai/voxceleb_trainer
