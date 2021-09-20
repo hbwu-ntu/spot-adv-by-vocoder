@@ -1,8 +1,8 @@
 # Spotting adversarial samples for ASV by neural vocoders
 
 ## Introduction
-- This repo is used for reproducing the main result of "SPOTTING ADVERSARIAL SAMPLES FOR SPEAKER VERIFICATION BY NEURAL VOCODERS"
-- Paper: [Arxiv](https://arxiv.org/abs/2107.00309)
+- This repo is used for reproducing the main result of "ADVERSARIAL SAMPLE DETECTION FOR SPEAKER VERIFICATION BY NEURAL VOCODERS"
+- Paper: [Arxiv]()
 - Audio demo: [Demo](https://haibinwu666.github.io/adv-audio-demo/index.html)
 
 ## Installation
