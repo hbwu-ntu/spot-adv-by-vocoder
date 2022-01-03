@@ -12,9 +12,8 @@ if [ $stage -eq 0 ]; then
         --dumpdir $data_dir/samples/dump/row
 fi
 
-stage=1
 #### normlize melspec ####
-if [ $stage -eq 1 ]; then
+if [ $stage -le 1 ]; then
     parallel-wavegan-normalize \
         --config pretrained_model/train_nodev_ljspeech_parallel_wavegan.v1.long/config.yml \
         --rootdir $data_dir/samples/dump/row \
@@ -22,9 +21,8 @@ if [ $stage -eq 1 ]; then
         --stats pretrained_model/train_nodev_ljspeech_parallel_wavegan.v1.long/stats.h5
 fi
 
-stage=2
 #### generate waveform ####
-if [ $stage -eq 2 ]; then
+if [ $stage -le 2 ]; then
     parallel-wavegan-decode \
         --checkpoint pretrained_model/train_nodev_ljspeech_parallel_wavegan.v1.long/checkpoint-1000000steps.pkl \
         --dumpdir $data_dir/samples/dump/norm \
