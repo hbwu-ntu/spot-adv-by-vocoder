@@ -2,7 +2,7 @@
 
 ## Introduction
 - This repo is used for reproducing the main result of "Adversarial Sample Detection for Speaker Verification by Neural Vocoders"
-- Paper: [Arxiv] (https://arxiv.org/abs/2107.00309)
+- Paper: [Arxiv](https://arxiv.org/abs/2107.00309)
 - Audio demo: [Demo](https://haibinwu666.github.io/adv-audio-demo/index.html)
 - Video: [Youtube](https://www.youtube.com/watch?v=7jD6iCzSgCM&list=PLHGxo29EjxFDB5OpqV5jVHu-zmvwCEnE7&index=3)
 
