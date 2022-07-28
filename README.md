@@ -110,6 +110,16 @@ bash run.sh
 
 ## Citation
 If you think this work helps your research or use the code, please consider citing our paper. Thank you!
+```
+@inproceedings{wu2022adversarial,
+  title={Adversarial Sample Detection for Speaker Verification by Neural Vocoders},
+  author={Wu, Haibin and Hsu, Po-Chun and Gao, Ji and Zhang, Shanshan and Huang, Shen and Kang, Jian and Wu, Zhiyong and Meng, Helen and Lee, Hung-Yi},
+  booktitle={ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={236--240},
+  year={2022},
+  organization={IEEE}
+}
+```
 
 ## Reference
 - The implementation of ParallelWaveGAN is from https://github.com/kan-bayashi/ParallelWaveGAN
