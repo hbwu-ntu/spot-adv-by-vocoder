@@ -119,6 +119,13 @@ If you think this work helps your research or use the code, please consider citi
   year={2022},
   organization={IEEE}
 }
+
+@article{chen2024neural,
+      title={Neural Codec-based Adversarial Sample Detection for Speaker Verification}, 
+      author={Xuanjun Chen and Jiawei Du and Haibin Wu and Jyh-Shing Roger Jang and Hung-yi Lee},
+      journal={arXiv preprint arXiv:2406.04582},
+      year={2024}
+}
 ```
 
 ## Reference
