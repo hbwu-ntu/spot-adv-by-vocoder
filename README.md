@@ -120,11 +120,12 @@ If you think this work helps your research or use the code, please consider citi
   organization={IEEE}
 }
 
-@article{chen2024neural,
-      title={Neural Codec-based Adversarial Sample Detection for Speaker Verification}, 
-      author={Xuanjun Chen and Jiawei Du and Haibin Wu and Jyh-Shing Roger Jang and Hung-yi Lee},
-      journal={arXiv preprint arXiv:2406.04582},
-      year={2024}
+@inproceedings{chen24p_interspeech,
+  title     = {Neural Codec-based Adversarial Sample Detection for Speaker Verification},
+  author    = {Xuanjun Chen and Jiawei Du and Haibin Wu and Jyh-Shing Roger Jang and Hung-yi Lee},
+  year      = {2024},
+  booktitle = {Proc. Interspeech},
+  doi       = {10.21437/Interspeech.2024-1191},
 }
 ```
 
